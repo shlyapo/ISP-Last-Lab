@@ -1,0 +1,9 @@
+C:\Users\sheks\source\repos\053501_Шляпо_Лаб11\Auto\bin\Debug\netcoreapp3.1\Auto.deps.json
+C:\Users\sheks\source\repos\053501_Шляпо_Лаб11\Auto\bin\Debug\netcoreapp3.1\Auto.dll
+C:\Users\sheks\source\repos\053501_Шляпо_Лаб11\Auto\bin\Debug\netcoreapp3.1\Auto.pdb
+C:\Users\sheks\source\repos\053501_Шляпо_Лаб11\Auto\obj\Debug\netcoreapp3.1\Auto.csprojAssemblyReference.cache
+C:\Users\sheks\source\repos\053501_Шляпо_Лаб11\Auto\obj\Debug\netcoreapp3.1\Auto.AssemblyInfoInputs.cache
+C:\Users\sheks\source\repos\053501_Шляпо_Лаб11\Auto\obj\Debug\netcoreapp3.1\Auto.AssemblyInfo.cs
+C:\Users\sheks\source\repos\053501_Шляпо_Лаб11\Auto\obj\Debug\netcoreapp3.1\Auto.csproj.CoreCompileInputs.cache
+C:\Users\sheks\source\repos\053501_Шляпо_Лаб11\Auto\obj\Debug\netcoreapp3.1\Auto.dll
+C:\Users\sheks\source\repos\053501_Шляпо_Лаб11\Auto\obj\Debug\netcoreapp3.1\Auto.pdb
